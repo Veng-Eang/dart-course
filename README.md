@@ -1,6 +1,6 @@
-# Dart Course | Code With Andrea
+# Dart Course | Code With Veng Eang
 
-This repo contains all the exercises and solutions from my [Dart Course](https://nnbd.me/dart).
+This repo contains all the exercises and solutions
 
 ![Course Contents](course-contents.png)
 
@@ -246,5 +246,4 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 1. BONUS Content: Free Dart eBook & Next Steps
 
 
-### [LICENSE: MIT](LICENSE)
 
